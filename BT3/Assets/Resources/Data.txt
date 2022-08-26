@@ -1,0 +1,18 @@
+{
+    "models": [
+        {
+            "ID": 0,
+            "name": "MA",
+            "gameDatas": [
+                {
+                    "GameID": 0,
+                    "score": 0
+                },
+                {
+                    "GameID": 0,
+                    "score": 0
+                }
+            ]
+        }
+    ]
+}

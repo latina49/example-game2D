@@ -1,0 +1,32 @@
+{
+    "models": [
+        {
+            "ID": 0,
+            "name": "Latina",
+            "gameDatas": [
+                {
+                    "GameID": 0,
+                    "score": 0
+                },
+                {
+                    "GameID": 0,
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "name": "MA",
+            "gameDatas": [
+                {
+                    "GameID": 0,
+                    "score": 0
+                },
+                {
+                    "GameID": 0,
+                    "score": 0
+                }
+            ]
+        }
+    ]
+}
